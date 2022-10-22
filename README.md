@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib Afzal</h1>
 <h3 align="center">A passionate android and web developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshahzaibafzal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshahzaibafzal" /> </p>
 
 - 🌱 I’m currently learning **ANDROID DEVELOPMENT**
