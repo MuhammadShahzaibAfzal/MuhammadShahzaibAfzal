@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib Afzal</h1>
-<h3 align="center">A passionate MERN Full Stack Web Developer Pakistan</h3>
+<h3 align="center">A passionate MERN Full Stack Web Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshahzaibafzal&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshahzaibafzal" /> </p>
 
-- 🌱 I’m currently learning **ANDROID DEVELOPMENT**
+- 🌱 I’m currently learning **MERN Development**
 
-- 💬 Ask me about **ANDROID | DJANGO | REACT JS**
+- 💬 Ask me about **EXPRESS JS | MONGO DB  | NODE JS | DJANGO | REACT JS**
 
 - 📫 How to reach me **shahzaibafzalofficial@gmail.com**
 
