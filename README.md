@@ -1,51 +1,60 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib Afzal</h1>
-<h3 align="center">A passionate MERN Full Stack Web Developer from Pakistan</h3>
+<h3 align="center">Software Engineer | Full Stack Web Developer (MERN & Next.js)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadshahzaibafzal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **real-time booking platforms and full-stack web apps**
-- 🌱 I’m currently learning **advanced architecture patterns and performance optimization**
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Firebase, PostgreSQL, Redux Toolkit, Stripe, Docker**
-- ⚡ Fun fact: I write clean, test-driven code with a focus on performance and scalability
-- 📫 Reach me at **shahzaibafzalofficial@gmail.com**
+---
+
+### 🚀 About Me
+
+🎓 I am a **Software Engineer** with over **3 years of experience** building scalable and performance-driven web applications.  
+💻 Passionate about crafting robust backends, sleek frontends, and smooth user experiences using the **MERN stack, Next.js, and Firebase**.  
+🧪 Strong advocate of **clean code, Test-Driven Development (TDD)**, and best practices like **SOLID principles**.  
+🌍 Based in **Pakistan**, working with remote teams on global web solutions.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/m-shahzaib-afzal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/qurashi_shebi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-</p>
+### 💼 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
+**Databases & Realtime:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Socket.IO](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)  
+**Dev Tools & Others:**  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
-</p>
+### 📈 GitHub Stats
 
----
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshahzaibafzal&theme=default" alt="streak-stats" />
 </p>
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: **shahzaibafzalofficial@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/m-shahzaib-afzal](https://linkedin.com/in/m-shahzaib-afzal)  
+- 🐦 Twitter: [@qurashi_shebi](https://twitter.com/qurashi_shebi)
+
+---
+
