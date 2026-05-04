@@ -1,60 +1,37 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shahzaib Afzal</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer (MERN & Next.js)</h3>
+### Hi there 👋 I'm Shahzaib
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadshahzaibafzal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+I'm a **Senior Full Stack Developer** based in a small village in **Jhelum, Pakistan** — proof that great code can ship from anywhere with Wi-Fi and determination.
 
----
-
-### 🚀 About Me
-
-🎓 I am a **Software Engineer** with over **3 years of experience** building scalable and performance-driven web applications.  
-💻 Passionate about crafting robust backends, sleek frontends, and smooth user experiences using the **MERN stack, Next.js, and Firebase**.  
-🧪 Strong advocate of **clean code, Test-Driven Development (TDD)**, and best practices like **SOLID principles**.  
-🌍 Based in **Pakistan**, working with remote teams on global web solutions.
+I build scalable, production-grade web and mobile applications with the **MERN stack**, **Next.js**, and **React Native**. I care deeply about clean architecture, performance, and writing code that other developers actually enjoy reading.
 
 ---
 
-### 💼 Tech Stack
+#### 🚀 What I do
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-**Databases & Realtime:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Socket.IO](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)  
-**Dev Tools & Others:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe)
+- Architect and ship full-stack applications end-to-end
+- Build high-performance REST APIs, real-time systems (WebSockets, Socket.IO, Firebase)
+- Design event-driven backends with **Kafka** and **Redis**
+- Integrate payment gateways (**Stripe**, **PayPal**) with secure, reliable flows
+- Write tested, maintainable code following **TDD**, **SOLID**, and clean code principles
 
----
+#### 🛠️ Tech I work with
 
-### 📈 GitHub Stats
+**Frontend:** JavaScript, TypeScript, React, Next.js, React Native, Tailwind, Shadcn, Zustand, React Query
+**Backend:** Node.js, Express, REST, WebSockets, Kafka, Redis
+**Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
+**DevOps:** AWS, Docker, CI/CD, Vercel
+**Testing:** Jest, TDD
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshahzaibafzal&theme=default" alt="streak-stats" />
-</p>
+#### 🌱 A bit about my story
+
+I grew up in a small village in Jhelum where stable electricity and good internet were luxuries, not guarantees. I taught myself to code because I was curious — and stuck with it because I fell in love with building things people actually use. Today I'm a senior engineer working on products that reach users across the globe. Coming from where I do shapes how I work: I value resourcefulness, clean solutions, and never taking a working build for granted.
+
+#### 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-shahzaib-afzal)
+- 📧 ishahzaibafzal@gmail.com
+- 📍 Jhelum, Punjab, Pakistan
 
 ---
 
-### 📬 Contact Me
-
-- 📧 Email: **shahzaibafzalofficial@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/m-shahzaib-afzal](https://linkedin.com/in/m-shahzaib-afzal)  
-- 🐦 Twitter: [@qurashi_shebi](https://twitter.com/qurashi_shebi)
-
----
-
+⭐ *"The best code is the kind that ships, runs, and someone — somewhere — actually finds useful."*
